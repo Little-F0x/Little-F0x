@@ -37,7 +37,7 @@
 |---------|-------------|--------|
 | [BurpSuite-Plugins](https://github.com/Little-F0x/BurpSuite-Plugins) | 高级Burp Suite插件集合 | 🟢 Active |
 | [nuclei-wordpress-diff](https://github.com/Little-F0x/nuclei-wordpress-diff) | Nuclei WP指纹差异检测 | 🟢 Active |
-| [WannaCry](https://github.com/Little-F0x/WannaCry) | C#编写的研究样本 | 🔒 Private |
+| [WannaCry](https://github.com/Little-F0x/WannaCry) | C#编写的研究样本 | 🟢 Active |
 
 ---
 
